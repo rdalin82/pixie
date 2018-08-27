@@ -43,12 +43,12 @@ defmodule Pixie.Mixfile do
 
   defp deps do
     [
-      {:cowboy,        "~> 1.0.2", optional: true},
-      {:poison,        "~> 1.5.0"},
+      {:cowboy,        "~> 1.1.2", optional: true},
+      {:poison,        "~> 2.2"},
       {:secure_random, "~> 0.1"},
       {:ex_minimatch,  "~> 0.0.1"},
       {:timex,         "~> 0.19.2"},
-      {:plug,          "~> 1.0.0"},
+      {:plug,          "~> 1.4"},
       {:exredis,       "~> 0.2.0", optional: true},
       {:poolboy,       "~> 1.5.1"},
       {:ex_doc,        "~> 0.10", optional: true},
