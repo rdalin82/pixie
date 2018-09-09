@@ -47,7 +47,7 @@ defmodule Pixie.Mixfile do
       {:poison,        "~> 2.2"},
       {:secure_random, "~> 0.1"},
       {:ex_minimatch,  "~> 0.0.1"},
-      {:timex,         "~> 0.19.2"},
+      {:timex,         "~> 2.2.1"},
       {:plug,          "~> 1.4"},
       {:exredis,       "~> 0.2.0", optional: true},
       {:poolboy,       "~> 1.5.1"},
