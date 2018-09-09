@@ -32,7 +32,7 @@
   "secure_random": {:hex, :secure_random, "0.2.0", "d5458ab5613410439c21a2fdbc52e98e6c96338f3ea25d08220c30cfc55f1238", [], [], "hexpm"},
   "ssl_verify_fun": {:hex, :ssl_verify_fun, "1.1.1", "28a4d65b7f59893bc2c7de786dec1e1555bd742d336043fe644ae956c3497fbe", [], [], "hexpm"},
   "ssl_verify_hostname": {:hex, :ssl_verify_hostname, "1.0.5"},
-  "timex": {:hex, :timex, "2.2.1", "0d69012a7fd69f4cbdaa00cc5f2a5f30f1bed56072fb362ed4bddf60db343022", [], [{:combine, "~> 0.7", [hex: :combine, repo: "hexpm", optional: false]}, {:gettext, "~> 0.10", [hex: :gettext, repo: "hexpm", optional: false]}, {:tzdata, "~> 0.1.8 or ~> 0.5", [hex: :tzdata, repo: "hexpm", optional: false]}], "hexpm"},
+  "timex": {:hex, :timex, "3.1.25", "6002dae5432f749d1c93e2cd103eb73cecb53e50d2c885349e8e4146fc96bd44", [], [{:combine, "~> 0.10", [hex: :combine, repo: "hexpm", optional: false]}, {:gettext, "~> 0.10", [hex: :gettext, repo: "hexpm", optional: false]}, {:tzdata, "~> 0.1.8 or ~> 0.5", [hex: :tzdata, repo: "hexpm", optional: false]}], "hexpm"},
   "tzdata": {:hex, :tzdata, "0.5.19", "7962a3997bf06303b7d1772988ede22260f3dae1bf897408ebdac2b4435f4e6a", [], [{:hackney, "~> 1.0", [hex: :hackney, repo: "hexpm", optional: false]}], "hexpm"},
   "unicode_util_compat": {:hex, :unicode_util_compat, "0.3.1", "a1f612a7b512638634a603c8f401892afbf99b8ce93a45041f8aaca99cadb85e", [], [], "hexpm"},
 }
